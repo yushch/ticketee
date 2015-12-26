@@ -1,28 +1,17 @@
-== README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+== Ticktee barebone project
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Things will cover:
+
+* Tracks tickets (of course) and groups them into projects
+
+* Provides a way to restrict users to certain projects
+
+* Allows users to upload files to tickets
+
+* Lets users tag tickets so they’re easy to find
+
+* Provides an API on which users can base development of their own applications
+
+
+The whole stuff would be coded in an TDD/BDD way.
